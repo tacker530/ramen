@@ -20,7 +20,7 @@ def extract_coordinates(json_string)
       end
     end
   end
-  coordinates.to_a
+  coordinates.sort.to_a
 end
 
 # コマンドライン引数を解析
