@@ -1,7 +1,5 @@
 [
-  {
-    "//": " 青海ちゃん"
-  },
+
   {
     "type": "polyline",
     "latLngs": [
@@ -2970,9 +2968,7 @@
     ],
     "color": "dodgerblue"
   },
-  {
-    "//": " 以下は「ら」"
-  },
+
   {
     "type": "polygon",
     "latLngs": [
@@ -3168,9 +3164,6 @@
       }
     ],
     "color": "dodgerblue"
-  },
-  {
-    "//": "らーめん"
   },
   {
     "type": "polygon",
