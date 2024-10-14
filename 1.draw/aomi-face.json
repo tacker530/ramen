@@ -2966,5 +2966,37 @@
       }
     ],
     "color": "dodgerblue"
+  },
+  {
+    "type": "polyline",
+    "latLngs": [
+      {
+        "lat": 35.441888,
+        "lng": 133.335563
+      },
+      {
+        "lat": 35.441903,
+        "lng": 133.336361
+      },
+      {
+        "lat": 35.44059,
+        "lng": 133.337873
+      }
+    ],
+    "color": "dodgerblue"
+  },
+  {
+    "type": "polyline",
+    "latLngs": [
+      {
+        "lat": 35.441903,
+        "lng": 133.336361
+      },
+      {
+        "lat": 35.44283,
+        "lng": 133.340819
+      }
+    ],
+    "color": "dodgerblue"
   }
 ]
