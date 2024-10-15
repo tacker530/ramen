@@ -1,0 +1,1 @@
+ruby ../tools/draw2merge.rb ./aomi-face.json ./aomi-ra.json ./aomi-ramen.json > aomi-merge.json
